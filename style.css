@@ -1,0 +1,57 @@
+#odd {
+  padding: 25px;
+  text-align: center;
+  text-shadow: 20px;
+  background-color: rgba(10,39,84,0.8);
+  border-style: ridge;
+}
+#even {
+  border: solid;
+  background-color: WHITE;
+  padding : 25px;
+  text-align: center;
+  border-style: ridge;
+}
+.dp{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 100px;
+  width: 250px;
+  height: 250px;
+  -webkit-transition: all 2s ease;
+}
+
+.dp:hover {
+  right:40px;
+  position: relative;
+
+}
+dt{
+  font-size: 22px;
+}
+dd{
+  font-size: 18px;
+}
+a:visited{
+  color: 0a2754;
+}
+a{
+  color:0a2754;
+}
+#oddtext
+{
+  text-align: center;
+  font-size:25px;
+  color:0a2754;
+  font-weight: bold;
+  text-decoration: underline;
+}
+#eventext
+{
+  text-align: center;
+  font-size:25px;
+  color:white;
+  font-weight: bold;
+  text-decoration: underline;
+}
